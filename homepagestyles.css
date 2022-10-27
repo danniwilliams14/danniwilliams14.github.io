@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link, a:visited {color:blueviolet}
+a:focus, a:hover {color:#255238}
+
+body{
+	background-color:aliceblue;
+	background-image:url(Artwork/ghost.gif);
+}
+
+header{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color:aliceblue;
+}
+
+footer{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+p b{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+}
+
+p{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+}
+
+dt{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+}
+
+dd{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+}
+
+section.info{
+	text-align:center;
+	background-color: aliceblue;
+}
+
+section.quote{
+	text-align:center;
+	background-color: aliceblue;
+}
+
+div{
+	text-align:center;
+}

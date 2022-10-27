@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img.medium1
+{width:200px;
+height:320px;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+
+img.medium2
+{width:320px;
+height:200px;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+
+img.medium3
+{width:320px;
+height:240px;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+
+img.medium4
+{width:240px;
+height:320px;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+
+img.medium5
+{width:600px;
+height:200px;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+}
+
+body{
+	background-color:aliceblue;
+	background-image: url(Artwork/ghost.gif);
+}
+
+h1{
+	text-align:center;
+	font-size:500%;
+}
+
+figcaption{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	background-color: aliceblue;
+}
+
+a:link, a:visited {color:blueviolet}
+a:focus, a:hover {color:#255238}
+
+header{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color: aliceblue;
+}
+
+footer{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color: aliceblue;
+}
+
+figure{
+	text-align:center;
+}
